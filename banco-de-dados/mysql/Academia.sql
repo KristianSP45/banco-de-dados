@@ -146,5 +146,3 @@ end $$
 DELIMITER ;
 
 call selecionar_sexo("M");
-
--- TESTE --
